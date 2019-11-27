@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qian Zheng"
+title                    : "Welcome to Qian Zheng's homepage!"
 title_separator          : "-"
 name                     : &name "Qian Zheng (郑乾)"
 description              : &description "personal description"
@@ -87,7 +87,7 @@ author:
   employer         : "ROSE@EEE, \n NTU, Singapore"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=ztWK59MAAAAJ&hl=zh-CN"
-  email            :
+  email            : "qianzheng[at]zju[dot]edu[dot]cn"
  # researchgate     : "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

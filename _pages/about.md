@@ -1,12 +1,32 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: ""
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (directed by [Prof. Alex Chichung Kot](https://www.ntu.edu.sg/home/eackot/) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University.
+He works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
+His research interests are computational photography (camera calibration, reflection removal) and computer vision (reflectance and illumination modeling, 3D vision).
+
+Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
+During his Ph.D study, Prof. Ajay Kumar, and Prof. 
+
+
+Boxin Shi is currently an Assistant Professor (研究员、博士生导师) and leading the Camera Intelligence group, at the Institute of Digital Media, School of Electronics Engineering and Computer Science, Peking University. His research interests are computational photography (super resolution, high dynamic range imaging, depth camera, unconventional imaging sensor, reflection removal) and computer vision (physics-based vision, photometry, reflectance and illumination modeling, 3D vision, object search).
+
+Before joining PKU, he has worked as a Researcher at the Artificial Intelligence Research Center, National Institute of Advanced Industrial Science and Technology (AIST). He has also worked as a Research Fellow at the Rapid-Rich Object Search (ROSE) Lab (directed by Prof. Alex Chichung Kot​​​ and Prof. Wen Gao), Nanyang Technological University in 2015, at the Camera Culture Group (led by Prof. Ramesh Raskar), MIT Media Lab, Massachusetts Institute of Technology (MIT), and the Vision, Graphics, and Computational Design (VDG) group (led by Prof. Sai-Kit Yeung), Singapore University of Technology and Design (SUTD), as an SUTD-MIT Joint Postdoctoral Fellow from 2013 to 2015.
+
+Boxin earned his Ph.D. degree in information science and technology from the University of Tokyo in 2013. During his Ph.D. study, he worked at the Compute Vision Lab, under the supervision of Prof. Katsushi Ikeuchi. Before coming to the University of Tokyo, he has got his Master of Engineering from Peking University and Bachelor of Engineering from Beijing University of Posts and Telecommunications, China, in 2010 and 2007 respectively. He has worked at Visual Computing Group, Microsoft Research Asia as an intern in 2009, 2010, and 2012, supervised by Dr. Yasuyuki Matsushita. He has also worked at National University of Singapore as a Research Engineer with Prof. Ping Tan in 2011.
+
+computer vision: video processing & enhancement, AR & special effects, 3D reconstruction, object detection & segmentation, and video understanding.
+
+I am a research fellow in the Rapid-Rich Object Search Lab of Nanyang Technological University. Before than, I obtained my Ph.D. degree from NTU in 2019 supervised by Prof. Alex C. Kot, Prof. Tan Ah Hwee, and Prof. Boxin Shi and my bachelor degree from the University of Electronic Science and Technology of China in 2012.
+
+at ROSE lab, EEE. My research focuses on computer vision: video processing & enhancement, AR & special effects, 3D reconstruction, object detection & segmentation, and video understanding. I was with Blackmagic Design in 2016-2019, working on cool features in Emmy™ award winning tool DaVinci Resolve. During 2015 to 2016, I worked at University of Illinois at Urbana-Champaign (UIUC) Advanced Digital Sciences Center (ADSC) on Visual data Modeling and Analysis project. I got my PhD degree from National University of Singapore, working with Prof. Michael S. Brown. I was awarded Singapore IDA medal of year 2016.
+
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

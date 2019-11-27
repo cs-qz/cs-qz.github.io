@@ -7,16 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (directed by [Prof. Alex Chichung Kot](https://www.ntu.edu.sg/home/eackot/) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University.
-He works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
+Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) (directed by [Prof. Alex Chichung Kot](https://www.ntu.edu.sg/home/eackot/) and [Prof. Wen Gao](http://www.jdl.ac.cn/htm-gaowen/index_en.htm)), School of Electronics and Electrical Engineering, Nanyang Technological University and works with [Prof. Boxin Shi](http://alumni.media.mit.edu/~shiboxin/) and [Prof. Xudong Jiang](https://www.ntu.edu.sg/home/exdjiang/).
 His research interests are computational photography (camera calibration, reflection removal) and computer vision (reflectance and illumination modeling, 3D vision).
 
-Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
-During his Ph.D study, Prof. Ajay Kumar, and Prof. 
+Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University (ZJU) in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
+During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) with a ZJU-PolyU joint supervision scheme under the supervision of [Prof. Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) (Nov. 2012 - Nov.2013, Aug. 2015 - Jun. 2016).
+He got Bachelor of Engineering from Zhejiang University in 2011.
 
-
-
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
 ======

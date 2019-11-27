@@ -84,8 +84,7 @@ author:
   avatar           : "profile.jpg"
   #bio              : "Your biography for the left-hand sidebar"
   #location         : "Location"
-  employer         : ROSE@EEE, 
-                     NTU, Singapore
+  employer         : "ROSE@EEE, \n NTU, Singapore"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?user=ztWK59MAAAAJ&hl=zh-CN"
   email            :

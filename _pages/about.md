@@ -42,7 +42,7 @@ Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
 
 **Suspecting Less and Doing Better: New Insights on Palmprint Identification for Faster and More Accurate Matching** <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
-*IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](https://pdfs.semanticscholar.org/4914/f51bc2f5a35c0d15924e39a51975c53f9753.pdf)\]
+*IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](http://www4.comp.polyu.edu.hk/~csajaykr/myhome/papers/TIFS2016a.pdf)\]
 
 ## Conference Papers
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>

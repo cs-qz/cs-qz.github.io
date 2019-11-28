@@ -48,12 +48,12 @@ Conference Papers
 
 **Exploiting Ratings, Reviews and Relationships for Item Recommendations in Topic Based Social Network** <br>
 Pengfei Li, Hua Lu, **Qian Zheng**, Long Yang, Gang Pan <br>
-*The World Wide Web Conference (WWW)*, May 2019 \[[paper](https://dl.acm.org/citation.cfm?id=3313473)\]
+*International World Wide Web Conferences (WWW)*, May 2019 \[[paper](https://dl.acm.org/citation.cfm?id=3313473)\]
 
 
 **Exploiting Local Feature Patterns for Unsupervised Domain Adaptation** <br>
 Jun Wen, Risheng Liu, Nenggan Zheng, **Qian Zheng**, Zhefeng Gong, Junsong Yuan <br>
-*Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)*, January 2019 \[[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/AAAI_2019_Jun.pdf)\]
+*AAAI Conference on Artificial Intelligence (AAAI)*, January 2019 \[[paper](https://cse.buffalo.edu/~jsyuan/papers/2019/AAAI_2019_Jun.pdf)\]
 
 **Fashion Recommendation on Street Images** <br>
 Huijing Zhan, Boxin Shi, Jiawei Chen, **Qian Zheng**, Ling-Yu Duan, Alex C. Kot <br>

@@ -1,21 +1,3 @@
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
-
 Journal/Magazine Papers
 ======
 
@@ -79,6 +61,21 @@ Long Yang, Minhao Shi, **Qian Zheng**, Wenjia Meng, Gang Pan <br>
 **EasyPointer: What You Pointing at is What You Get** <br>
 Gang Pan, Haoyi Ren, Weidong Hua, **Qian Zheng**, Shijian Li<br>
 *CHI'11 Extended Abstracts on Human Factors in Computing Systems*, May 2011 \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3148&rep=rep1&type=pdf)\]
+
+
+Patents
+======
+**Method and device for contactless biometrics identification** <br>
+Ajay Kumar, **Qian Zheng**  <br> US Patent 9734165, 2017
+
+**一种基于联合字典的三维人脸表情去除的方法** 
+王跃明, 潘纲, **郑乾**, 吴朝晖 <br> CN Patent 104408768B，2017
+
+**一种建立一致性三维人脸网格的稀疏变形模型的方法** 
+王跃明, 潘纲, **郑乾**, 吴朝晖 <br> CN Patent 104408767A，2015
+
+
+
 
 
 

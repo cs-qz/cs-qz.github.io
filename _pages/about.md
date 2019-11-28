@@ -16,8 +16,8 @@ He got Bachelor of Engineering from Zhejiang University in 2011.
 
 Journal/Magazine Papers
 ======
-**SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** \n 
-Qian Zheng, Yiming Jia2, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot \n
+**SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
+Qian Zheng, Yiming Jia2, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, October 2019.
 
 

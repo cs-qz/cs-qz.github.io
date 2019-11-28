@@ -14,12 +14,12 @@ Before joining NTU, he earned his Ph.D. degree in computer science and technolog
 During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) with a ZJU-PolyU joint supervision scheme under the supervision of [Prof. Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) (Nov. 2012 - Nov.2013, Aug. 2015 - Jun. 2016).
 He got his Bachelor of Engineering from Zhejiang University in 2011.
 <br>
+<br>
 
 Publications
 ======
 
 ### Journal/Magazine Papers
-
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
 *IEEE Transactions on Image Processing (TIP)*, 2019 \[[paper](http://alumni.media.mit.edu/~shiboxin/files/Zheng_TIP19.pdf)\]
@@ -42,11 +42,7 @@ Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
 *IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](https://pdfs.semanticscholar.org/4914/f51bc2f5a35c0d15924e39a51975c53f9753.pdf)\]
 
-
-<br>
-
 ### Conference Papers
-
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 *IEEE International Conference on Computer Vision (ICCV)*, October 2019 \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]

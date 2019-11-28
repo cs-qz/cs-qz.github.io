@@ -17,7 +17,7 @@ IEEE Access <br>
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br>
 British Machine Vision Conference (BMVC) 2019 <br>
 
-### Invited talk
+### Invited talks
 "Sparse Photometric Stereo", NTU-PKU JRI Workshop, Shenzhen China, December 2019 <br>
 "Single Image De-raining", NTU-PKU JRI Workshop, Macau, October 2018 <br>
 "Biometric and Face Recognition", Visual Analytics Workshop, Singapore, March 2018 <br>

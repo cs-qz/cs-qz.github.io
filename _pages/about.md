@@ -24,3 +24,8 @@ Qian Zheng, Yiming Jia2, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
 
 Conference Papers
 ======
+<div>
+  <img src="/images/pic_splinenet.png" style="vertical-align:middle;">
+  <span>Qian Zheng, Yiming Jia2, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
+*IEEE International Conference on Computer Vision (ICCV)*, October 2019. \[[paper](http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf)\]</span>
+</div>

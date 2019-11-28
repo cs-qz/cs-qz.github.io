@@ -6,18 +6,18 @@ author_profile: true
 redirect_from:
   - /services
 ---
-###Program committee member
+### Program committee member
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) Biometrics Workshop 2018
 
-###Journal reviewer
+### Journal reviewer
 IEEE Transactions on Image Processing (TIP) <br>
 IEEE Access <br>
 
-###Conference reviewer
+### Conference reviewer
 IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2020 <br>
 British Machine Vision Conference (BMVC) 2019 <br>
 
-###Invited talk
+### Invited talk
 "Sparse Photometric Stereo", NTU-PKU JRI Workshop, Shenzhen China, December 2019 <br>
 "Single Image De-raining", NTU-PKU JRI Workshop, Macau, October 2018 <br>
 "Biometric and Face Recognition", Visual Analytics Workshop, Singapore, March 2018 <br>

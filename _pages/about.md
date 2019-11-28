@@ -78,7 +78,7 @@ Long Yang, Minhao Shi, **Qian Zheng**, Wenjia Meng, Gang Pan <br>
 
 **EasyPointer: What You Pointing at is What You Get** <br>
 Gang Pan, Haoyi Ren, Weidong Hua, **Qian Zheng**, Shijian Li<br>
-*CHI'11 Extended Abstracts on Human Factors in Computing Systems*, 2011 \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3148&rep=rep1&type=pdf)\]
+*CHI'11 Extended Abstracts on Human Factors in Computing Systems*, May 2011 \[[paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.261.3148&rep=rep1&type=pdf)\]
 
 
 

@@ -19,7 +19,8 @@ Journal/Magazine Papers
 
 
 
-<br><br><br><br><br><br>
+<br>
+
 Conference Papers
 ======
 <div style="text-align: right"><img src="/images/pic_splinenet.png" align="left" height="150" /></div>

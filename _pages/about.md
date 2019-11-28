@@ -30,6 +30,6 @@ Conference Papers
    <strong>SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks</strong> <br>
    <strong>Qian Zheng</strong>, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
    <i>IEEE International Conference on Computer Vision (ICCV)</i>, October 2019. 
-   [<a href=‘http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf’>paper</a>]
+   [<a href=“http://openaccess.thecvf.com/content_ICCV_2019/papers/Zheng_SPLINE-Net_Sparse_Photometric_Stereo_Through_Lighting_Interpolation_and_Normal_Estimation_ICCV_2019_paper.pdf”>paper</a>]
   </span>
 </div>

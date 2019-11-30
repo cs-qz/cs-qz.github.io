@@ -14,7 +14,7 @@ Qian Zheng is currently a Research Fellow at the [Rapid-Rich Object Search Lab](
 His research interests are computational photography (camera calibration, image restoration) and computer vision (reflectance and illumination modeling, 3D vision).
 
 Before joining NTU, he earned his Ph.D. degree in computer science and technology from Zhejiang University (ZJU) in 2017 under the supervision of [Prof. Gang Pan](https://person.zju.edu.cn/en/gpan).
-During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) with a ZJU-PolyU joint supervision scheme under the supervision of [Prof. Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in 2013 and 2015. [//]:#(Nov. 2012 - Nov.2013, Aug. 2015 - Jun. 2016).
+During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) with a ZJU-PolyU joint supervision scheme under the supervision of [Prof. Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) in 2013 and 2015. <!--(Nov. 2012 - Nov.2013, Aug. 2015 - Jun. 2016).-->
 He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 

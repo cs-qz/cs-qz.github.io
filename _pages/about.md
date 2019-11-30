@@ -14,6 +14,4 @@ Before joining NTU, he earned his Ph.D. degree in computer science and technolog
 During his Ph.D. study, he visited the Hong Kong Polytechnic University (PolyU) with a ZJU-PolyU joint supervision scheme under the supervision of [Prof. Ajay Kumar](https://www4.comp.polyu.edu.hk/~csajaykr/) (Nov. 2012 - Nov.2013, Aug. 2015 - Jun. 2016).
 He got his Bachelor of Engineering from Zhejiang University in 2011.
 
-<a href="https://info.flagcounter.com/JLWK"><img src="https://s11.flagcounter.com/count2/JLWK/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
-
 

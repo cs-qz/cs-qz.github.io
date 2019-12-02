@@ -19,7 +19,7 @@ He got his Bachelor of Engineering from Zhejiang University in 2011.
 
 
 
-## Call for long-time interns: <br>
+**Call for long-time interns:**<br>
 [ROSE Lab](https://rose.ntu.edu.sg/Pages/Home.aspx) is looking for an intern who can intensively work with me or other research staffs on a computer vision research problem using deep learning, aiming at publishing a paper at CVPR/ICCV/ECCV/ICML/NIPS.
 
 

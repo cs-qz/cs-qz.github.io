@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Journal/Magazine Papers
-======
+Journal/Magazine papers
+=====
 
 **Numerical Reflectance Compensation for Non-Lambertian Photometric Stereo** <br>
 **Qian Zheng**, Ajay Kumar, Boxin Shi, Gang Pan <br>
@@ -34,7 +34,7 @@ Pengfei Li, Hua Lu, **Qian Zheng**, Gang Pan <br>
 **Qian Zheng**, Ajay Kumar, Gang Pan <br>
 *IEEE Transactions on Information Forensics and Security (TIFS)*, 2016 \[[paper](http://www4.comp.polyu.edu.hk/~csajaykr/myhome/papers/TIFS2016a.pdf)\]
 
-Conference Papers
+Conference papers
 ======
 **SPLINE-Net: Sparse Photometric Stereo through Lighting Interpolation and Normal Estimation Networks** <br>
 **Qian Zheng**, Yiming Jia, Boxin Shi, Xudong Jiang, Ling-Yu Duan, Alex C. Kot <br>
